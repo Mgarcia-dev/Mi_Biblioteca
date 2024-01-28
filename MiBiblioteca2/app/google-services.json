@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637515214503",
+    "project_id": "mi-biblioteca-b6495",
+    "storage_bucket": "mi-biblioteca-b6495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637515214503:android:3da00a1f5edd4961053582",
+        "android_client_info": {
+          "package_name": "com.mgg.mibiblioteca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB6rScHrplT9oR1B0ZjW0bqEL1Od0N_7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

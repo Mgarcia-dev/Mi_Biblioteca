@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mi Biblioteca</string>
+    <string name="hintCorreo">email</string>
+    <string name="hintPass">password</string>
+    <string name="login">Login</string>
+    <string name="add">anadir</string>
+    <string name="logout">logout</string>
+    <string name="edit">Editar</string>
+    <string name="mi_biblioteca">Mi Biblioteca</string>
+    <string name="crear_cuenta">Crear una cuenta</string>
+    <string name="leido">Leido</string>
+    <string name="editar">editar</string>
+    <string name="item">Item</string>
+    <string name="by_miguel_garc_a">by Miguel García</string>
+    <string name="cuenta_creada_con_xito">Cuenta creada con éxito!</string>
+    <string name="error_al_crear_cuenta">Error al crear cuenta</string>
+
+</resources>

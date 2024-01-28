@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--         Estilo padre                     ESTILO ABUELO -->
+    <style name="Base.Theme.MiBiblioteca" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+    <!--         ESTILO HIJO                 ESTILO PADRE-->
+    <style name="Theme.MiBiblioteca" parent="Base.Theme.MiBiblioteca" />
+</resources>
